@@ -1,6 +1,6 @@
 # Sistem Pemantauan Jaringan Pipa Distribusi Air PDAM
 
-Proyek kelompok **Itacha** (Kelas A) untuk mata kuliah Pengembangan Aplikasi Berbasis Web (PABW, SIF302), Semester Gasal 2026/2027, Universitas Islam Indonesia.
+Proyek kelompok **Ithaca** (Kelas A) untuk mata kuliah Pengembangan Aplikasi Berbasis Web (PABW), Semester Ganjil 2026/2027, Universitas Islam Indonesia.
 
 Aplikasi web untuk memantau debit dan tekanan air pada jaringan pipa distribusi PDAM, menampilkan status tiap titik pipa, dan memberi peringatan otomatis saat terjadi gangguan.
 
