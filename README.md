@@ -39,7 +39,7 @@ Akibatnya:
 | Petugas Lapangan | Menerima peringatan dini dan mengetahui titik kebocoran secara instan |
 | Supervisor PDAM | Menganalisis riwayat debit dan tekanan untuk melihat penurunan performa aliran |
 | Admin Sistem | Mengatur batas aman (*threshold*) debit dan tekanan (tahap berikutnya) |
-| Warga Kelurahan Hargobinangun | Terdampak tidak langsung; bukan pengguna sistem pada versi pertama |
+| Warga Kelurahan Hargobinangun | Terdampak tidak langsung; menerima manfaat akhir berupa pasokan air yang lebih terjaga karena gangguan pipa lebih cepat terdeteksi dan ditangani petugas, tanpa menggunakan sistem secara langsung |
 
 ## Fitur
 
