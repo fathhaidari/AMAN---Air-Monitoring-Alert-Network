@@ -28,7 +28,8 @@ Akibatnya:
 
 - air bersih banyak terbuang sia-sia,
 - biaya kerugian operasional membengkak,
-- perbaikan layanan ke rumah warga memakan waktu lama.
+- perbaikan layanan ke rumah warga memakan waktu lama,
+- tidak dapat memantau kualitas air secara real-time.
 
 ## Pelaku
 
